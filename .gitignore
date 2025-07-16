@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# macOS system files
+.DS_Store
+
+# CircuitPython hidden files & system folders
+.fseventsd/
+.metadata_never_index
+.Trashes
+
+# Virtual environments (optional)
+env/
+venv/
+
+# Fritzing files
+*.fzz
+
+# Local configuration files
+*.local
+
+# Backup files
+*~
