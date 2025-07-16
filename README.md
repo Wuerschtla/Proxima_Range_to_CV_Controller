@@ -35,6 +35,7 @@ are located in the schematics/ folder.
 
 ### Estimated Cost
 The module can be built from inexpensive components. Approximate prices:
+
 	•	Raspberry Pi Pico: 5–6 €
 
 	•	LM358 Op-Amp: 0.50 €
